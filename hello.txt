@@ -1,1 +1,2 @@
 hell Git this is my first
+This line was added in the new-feature branch.
